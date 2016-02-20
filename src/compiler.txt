@@ -1,0 +1,2 @@
+Compiler: GNU GCC
+Options: -std=c99
